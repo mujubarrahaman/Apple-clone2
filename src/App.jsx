@@ -1,7 +1,7 @@
 import Header from "./components/Header"
 import Navbar from "./components/Navbar"
 import Header1 from "./components/Header1"
-import Header2 from "./components/header2"
+import Header2 from "./components/Header2"
 import Product from "./components/Product"
 import Footer from "./components/Footer"
 
